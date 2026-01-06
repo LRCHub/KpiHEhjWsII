@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "I know",
+  "base_artist": "ウルトラ寿司ふぁいやー",
+  "createdAt": "2026-01-06T08:32:04.993341Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Ask Me How I Know",
+      "artist": "Bobby Pinson",
+      "has_synced": true,
+      "path": "select/01_Don't_Ask_Me_How_I_Know_Bobby_Pinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All I Know About Girls",
+      "artist": "Old Dominion",
+      "has_synced": true,
+      "path": "select/02_All_I_Know_About_Girls_Old_Dominion.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby, Baby (I Know You're a Lady)",
+      "artist": "David Houston",
+      "has_synced": false,
+      "path": "select/03_Baby,_Baby_(I_Know_You're_a_Lady)_David_Houston.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hell If I Know",
+      "artist": "Chase Bryant",
+      "has_synced": true,
+      "path": "select/04_Hell_If_I_Know_Chase_Bryant.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Know How He Feels",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/05_I_Know_How_He_Feels_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Know Somebody",
+      "artist": "Locash",
+      "has_synced": true,
+      "path": "select/06_I_Know_Somebody_Locash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Know Where I'm Going",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/07_I_Know_Where_I'm_Going_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Know You Know Me",
+      "artist": "Caroline Spence",
+      "has_synced": false,
+      "path": "select/08_I_Know_You_Know_Me_Caroline_Spence.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If I Know Me",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/09_If_I_Know_Me_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If I Know Me",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/10_If_I_Know_Me_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If I Know Me (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/11_If_I_Know_Me_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If I Know Me (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/12_If_I_Know_Me_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Now That I Know Your Name",
+      "artist": "Jordan Rager",
+      "has_synced": true,
+      "path": "select/13_Now_That_I_Know_Your_Name_Jordan_Rager.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "What Do I Know",
+      "artist": "Robert Counts",
+      "has_synced": false,
+      "path": "select/14_What_Do_I_Know_Robert_Counts.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You're the Only World I Know",
+      "artist": "Sonny James",
+      "has_synced": false,
+      "path": "select/15_You're_the_Only_World_I_Know_Sonny_James.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Know You Know",
+      "artist": "In Fear and Faith",
+      "has_synced": true,
+      "path": "select/16_I_Know_You_Know_In_Fear_and_Faith.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "No One I Know",
+      "artist": "SECRETBAND",
+      "has_synced": true,
+      "path": "select/17_No_One_I_Know_SECRETBAND.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "No One I Know",
+      "artist": "Secret Band",
+      "has_synced": true,
+      "path": "select/18_No_One_I_Know_Secret_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I know",
+      "artist": "ウルトラ寿司ふぁいやー",
+      "has_synced": false,
+      "path": "select/pl_01_I_know_ウルトラ寿司ふぁいやー.txt"
+    }
+  ]
+}
